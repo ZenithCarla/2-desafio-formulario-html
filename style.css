@@ -1,0 +1,68 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #340541;
+}
+
+.title-1{
+        position: absolute;
+        font-size: 20px;
+        font-weight: 200;
+        top: -10px;
+        background-color: white;
+        padding: 0 3px;
+}
+
+label{
+    display: block;
+    color: white;
+    font-size: 18px;
+}
+
+input{
+    margin-bottom: 18px;
+    border: 2px solid #aa6d8e;
+}
+
+.input-inline{
+    display: inline;
+}
+
+textarea{
+    display: block;
+    margin-bottom: 18px;
+}
+
+.input-block{
+    display: block;
+}
+
+button{
+    cursor: pointer;
+   }
+
+.button-clear:hover{
+    background-color: #8916A6;
+    width: 62px;
+    height: 24px;
+    color: white;
+    border: 2px solid #aa6d8e;
+    
+}
+
+.button-submit:hover{
+    background-color: #8916A6;
+    width: 60px;
+    height: 24px;
+    color: white;
+    border: 2px solid #aa6d8e;
+
+}
+
+
+
